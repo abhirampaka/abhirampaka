@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **pakaabhiram462@gmail.com**
+- 📫 How to reach me **abhirampaka18@gmail.com**
 
 - ⚡ Fun fact **I am an sleepy sloth**
 
