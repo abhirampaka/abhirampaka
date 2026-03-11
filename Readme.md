@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOInZGIkNPdDDnUbEsjwAzHgvOjpFivDQ-iw&s)" alt="tableau" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
